@@ -1,1 +1,23 @@
 /* Write your CSS here! */
+body {
+    margin: 8px;
+    display: block;
+}
+
+#mainHeading {
+    color: red;
+}
+
+.funParagraph {
+    color: green;
+}
+
+img {
+    margin: 50px 50px 50px 50px;
+    border: 4px outset rgb(149, 104, 231); 
+    padding: 5px;
+}
+
+ol {
+    font-size: 30px; 
+}
